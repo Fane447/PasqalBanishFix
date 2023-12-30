@@ -1,0 +1,12 @@
+﻿{
+  "Id": "_58396",
+  "DisplayName": "Pasqal Banish Fix",
+  "Author": "",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "_58396.dll",
+  "EntryMethod": "_58396.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}

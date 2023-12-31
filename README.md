@@ -12,4 +12,7 @@ https://i.imgur.com/kMWJRK1.png
 
 
 ## Install
+
+Download the latest release here https://github.com/Fane447/PasqalBanishFix/releases/download/release/PasqalBanishFixRelease.zip
+
 This is a UUM mod so it needs to be manually installed into your `%localappdata%low\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager`
